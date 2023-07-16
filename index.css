@@ -39,3 +39,28 @@
     margin-left: 0px;
     margin-right: 0px;
 }
+.Quick-search-headerline{
+    font-size: 30px;
+    color: #192f60;
+}
+.text-muted{
+    color: #8C96AB;
+}
+.Meals-headlines{
+    color:#192f60 ;
+    font-size: 18px;
+}
+.meals details{
+    width: 130px;
+}
+.card-shadow{
+    box-shadow: 0px 3px 6px  #00000029 ;
+}
+.Quick-section{
+    padding: 48px 113px 15px ;
+    top: 636px;
+    left: 893px
+    width: 360px;
+    height: 160px;
+
+}
